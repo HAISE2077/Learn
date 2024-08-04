@@ -1,6 +1,9 @@
 ---
 title: git Learn
 ---
+# 使用TortoiseGit，设置ssh方式连接git仓库。
+https://www.cnblogs.com/zy20160429/p/7493693.html
+
 # Github配置ssh key的步骤（大白话+包含原理解释）
 https://blog.csdn.net/weixin_42310154/article/details/118340458
 
