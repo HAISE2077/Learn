@@ -73,6 +73,18 @@ GOPATH：工作目录
 2）或通过go run 命令可以直接运行go程序（类似执行一个脚本文件的形式）（在实际的生产环境还是要先编译出来）
 如果要在另一个机器上这么运行，则该机器也需要go开发环境。
 
+# 利用VSCode实现远程连接服务器并实时同步保存文件
+https://blog.csdn.net/VGuan07/article/details/121650700
+
+# vscode远程同步服务器文件（Remote-SSH）
+https://blog.csdn.net/qq_45964209/article/details/125217789
+
+# VScode实现本地与远端同步开发的两种方式
+https://blog.csdn.net/yemazhuxing/article/details/128361276
+
+# VScode连接服务器+SFTP同步文件
+https://blog.csdn.net/qq_41512379/article/details/124682166
+
 # Linux下搭建Go开发环境
 **下载安装包**
 命令：`wget https://golang.google.cn/dl/go1.20.3.linux-amd64.tar.gz`
