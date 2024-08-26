@@ -8,6 +8,10 @@ https://github.com/EllanJiang/GameFramework
 官网：https://gameframework.cn/
 https://gameframework.cn/tutorial/list/
 
+## UnityGameFrameWork
+https://github.com/EllanJiang/UnityGameFramework
+StarForce：
+https://github.com/EllanJiang/StarForce
 
 ## XFGameFramework
 https://gitee.com/xianfengkeji/XFGameFramework
@@ -29,6 +33,15 @@ https://github.com/Joker-YF/JKFrame
 ### JKFrame 独立游戏程序框架使用手册
 http://www.yfjoker.com/JKFrame/
 
+
+## ET
+https://github.com/egametang/ET
+论坛：
+https://et-framework.cn/
+帧同步设计课程 by 熊猫：
+https://et-framework.cn/d/1501-by
+
+
 ## 【唐老狮】Unity中的MVC思想（框架）
 https://www.taikr.com/my/course/1164
 
@@ -36,6 +49,10 @@ https://www.taikr.com/my/course/1164
 https://www.taikr.com/my/course/1504
 
 
+# Unity 游戏框架之GameFramework和ET对比
+https://blog.csdn.net/yupu56/article/details/106993157
+# GameFramework框架详解之 框架总览
+https://passion.blog.csdn.net/article/details/109259806
 
 # 凉鞋：我所理解的框架 【Unity 游戏框架搭建】
 https://www.cnblogs.com/liangxiegame/p/12557515.html
